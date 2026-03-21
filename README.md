@@ -1,6 +1,8 @@
 Autonomous Driving Demo
 =======================
 
+> Online Demo now available at <https://fredbill1.github.io/AutonomousDrivingDemoWASM/>, source code at [FredBill1/AutonomousDrivingDemoWASM](https://github.com/FredBill1/AutonomousDrivingDemoWASM)
+
 # Installing Dependencies
 
 Requires Python 3.12 or later.
